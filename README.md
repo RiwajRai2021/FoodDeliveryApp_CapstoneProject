@@ -1,0 +1,5 @@
+# PropertiesRepoFoodDelivery
+# FoodDeliveryApp_CapstoneProject
+# FoodDeliveryApp
+# FoodDeliveryApp_CapstoneProject
+# FoodDeliveryApp_CapstoneProject
